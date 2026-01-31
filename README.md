@@ -92,6 +92,12 @@ plt.show()
 
 ## Output:
 
+#Dataset Preview:
+
+#After Encoding:
+
+#Classification Report:
+
 
 
 ## Result:
