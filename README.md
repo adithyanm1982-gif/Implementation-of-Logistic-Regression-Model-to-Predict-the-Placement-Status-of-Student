@@ -92,12 +92,24 @@ plt.show()
 
 ## Output:
 
-#Dataset Preview:
+## Dataset Preview:
 
-#After Encoding:
+<img width="704" height="328" alt="Dataset preview-ML-EX-5" src="https://github.com/user-attachments/assets/ebc80d52-d7b4-4795-b291-186d7ac905f2" />
 
-#Classification Report:
 
+## After Encoding:
+
+<img width="679" height="515" alt="After Encoding-ML-EX-5" src="https://github.com/user-attachments/assets/3b6e53c1-f4f9-4b36-8276-5ad2d974e333" />
+
+
+## Classification Report:
+
+<img width="687" height="248" alt="Classification Report-ML-EX-5" src="https://github.com/user-attachments/assets/053f8aec-f13b-4e02-9282-cf71edc30bab" />
+
+
+## Confusion Matrix - Placement Prediction:
+
+<img width="1367" height="587" alt="ML-EX-5" src="https://github.com/user-attachments/assets/40629229-5108-4f57-b010-59b5ec8b62c5" />
 
 
 ## Result:
